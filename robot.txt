@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /services$
+Allow: /staff$
+Allow: /deals$
+Allow: /styles$
+Sitemap: https://www.enchantedlashbrow.com/sitemap.xml
